@@ -1,0 +1,11 @@
+{
+	"crypto" : 
+	{
+		"host": "192.168.1.7",
+		"port": 3306,
+		"username": "dataadmin", 
+		"password": "welcome1", 
+		"database": "crypto", 
+		"schema": "public"
+	}
+}
